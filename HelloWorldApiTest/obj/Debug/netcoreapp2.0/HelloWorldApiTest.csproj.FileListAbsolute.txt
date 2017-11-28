@@ -1,0 +1,17 @@
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorldApiTest.deps.json
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorldApiTest.runtimeconfig.json
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorldApiTest.runtimeconfig.dev.json
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorldApiTest.dll
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorldApiTest.pdb
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorld.exe
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorld.pdb
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\bin\Debug\netcoreapp2.0\HelloWorld.exe.config
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.csprojResolveAssemblyReference.cache
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.csproj.CoreCompileInputs.cache
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.AssemblyInfoInputs.cache
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.AssemblyInfo.cs
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.dll
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApiTest\obj\Debug\netcoreapp2.0\HelloWorldApiTest.pdb

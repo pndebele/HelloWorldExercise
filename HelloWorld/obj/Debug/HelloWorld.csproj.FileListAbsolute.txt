@@ -1,0 +1,7 @@
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\pndebele\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
